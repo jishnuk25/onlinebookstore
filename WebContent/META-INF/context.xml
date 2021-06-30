@@ -19,7 +19,7 @@ password="Admin@777"
 driverClassName="com.mysql.jdbc.Driver"
 
 
-url="jdbc:mysql:/localhost:3306/onlinebookstore.0.0.1-SNAPSHOT"
+url="jdbc:mysql://localhost:3306/onlinebookstore"
 
 
 maxActive="15"
